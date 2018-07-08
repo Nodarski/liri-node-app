@@ -1,8 +1,9 @@
 # liri-node-app
 
-##like liri but siri
+## like liri but siri
 
-###Command available :
+### Command available :
+
     `node liri.js my-tweets`
 
         -returns last 20 tweets to the console-
